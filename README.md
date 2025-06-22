@@ -43,10 +43,3 @@ The dashboard provides deep insights into:
 - Analyze performance by payers and patient demographics
 
 ---
-
-## 🖼️ Dashboard Preview
-
-
-```md
-![Dashboard Preview](dashboard-screenshot.png)
-
