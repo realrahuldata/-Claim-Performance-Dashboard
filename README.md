@@ -46,7 +46,6 @@ The dashboard provides deep insights into:
 
 ## 🖼️ Dashboard Preview
 
-> Add a screenshot named `dashboard-screenshot.png` here to show how your final dashboard looks.
 
 ```md
 ![Dashboard Preview](dashboard-screenshot.png)
